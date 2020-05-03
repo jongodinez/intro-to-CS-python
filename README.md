@@ -1,2 +1,3 @@
-# intro-to-CS-python
-Intro to python course for the Bachelor's in Computer Science degree
+# Learning python
+
+This is a repo of various Python excercises.
